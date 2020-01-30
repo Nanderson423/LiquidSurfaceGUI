@@ -1,0 +1,3 @@
+Isotherm = Scan 3
+Fluorescence = Scan 632
+Reflectivity = Scan 726
